@@ -29,11 +29,19 @@ I followed the following steps:
 
 ### Logistic Regression Model - Results
 
+#### Classification Report
 ![LR_classif_rep.png](images/LR_classif_rep.png)
+
+### Model Results: KOI Disposition Actual vs. Predicted
 ![LR_pred_results.png](images/LR_pred_results.png)
 
 ### K Nearest Neighbors Model - Results
 
+#### Classification Report
 ![knn_classif_rep.png](images/knn_classif_rep.png)
+
+#### KNN Plot
 ![knn_plot](images/knn_plot.png)
+
+### Best scores for the current model
 ![knn_best_score](images/knn_best_score.png)
