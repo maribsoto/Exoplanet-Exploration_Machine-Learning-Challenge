@@ -27,7 +27,7 @@ I followed the following steps:
 
 ![pairplot.png](images/pairplot.png)
 
-### Logistic Regression Model - Results
+## Model 1: Logistic Regression 
 
 #### Classification Report
 ![LR_classif_rep.png](images/LR_classif_rep.png)
@@ -35,7 +35,7 @@ I followed the following steps:
 ### Model Results: KOI Disposition Actual vs. Predicted
 ![LR_pred_results.png](images/LR_pred_results.png)
 
-### K Nearest Neighbors Model - Results
+## Model 2: K Nearest Neighbors 
 
 #### Classification Report
 ![knn_classif_rep.png](images/knn_classif_rep.png)
