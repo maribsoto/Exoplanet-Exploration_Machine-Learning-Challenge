@@ -48,3 +48,14 @@ I followed the following steps:
 
 ### Best scores for the current model
 ![knn_best_score](images/knn_best_score.png)
+
+
+## Models Comparison and Findings
+
+Current results of the Logistic Regression and KNN models have scores of 0.61 and 0.63, respectively. The KNN model is slightly more accurate than LR. 
+
+PAC table show that the data set correlation coefficients among variables vary considerably. In some cases, coefficients are very low or non existant.  
+
+Some PairPlot displays are very sparse. The less sparse plots were selected.
+
+A more thorough review of the available dataset may through better model scores. Even more, other statistical approaches such as Random Forest or SVM, may produce more accurate results.
