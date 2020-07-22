@@ -35,6 +35,9 @@ I followed the following steps:
 ### Model Results: KOI Disposition Actual vs. Predicted
 ![LR_pred_results.png](images/LR_pred_results.png)
 
+### Best scores for the current model
+![LR_best_score](images/LR_best_score.png)
+
 ## Model 2: K Nearest Neighbors 
 
 #### Classification Report
