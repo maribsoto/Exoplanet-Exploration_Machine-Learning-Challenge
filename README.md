@@ -40,10 +40,10 @@ I followed the following steps:
 
 ## Model 2: K Nearest Neighbors 
 
-#### Classification Report
+### Classification Report
 ![knn_classif_rep.png](images/knn_classif_rep.png)
 
-#### KNN Plot
+### KNN Plot
 ![knn_plot](images/knn_plot.png)
 
 ### Best scores for the current model
