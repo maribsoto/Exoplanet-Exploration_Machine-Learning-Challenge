@@ -29,7 +29,7 @@ I followed the following steps:
 
 ## Model 1: Logistic Regression 
 
-#### Classification Report
+### Classification Report
 ![LR_classif_rep.png](images/LR_classif_rep.png)
 
 ### Model Results: KOI Disposition Actual vs. Predicted
